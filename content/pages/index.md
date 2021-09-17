@@ -3,73 +3,39 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: This is a hero headline.
-    subtitle: '### This is a super-cool hero subhead.'
-    image: images/avatar.png
+    title: Rock Hydraulics
+    subtitle: |
+      ### Hohai University&#xA;&#xA;&#xA;
+    image: images/logo.png
     image_alt: Author avatar
   - title: Text
     section_id: intro
     type: section_content
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam,
-      elementum consectetur elit non, tempus varius leo. In ut bibendum mauris.
-      Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed
-      condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis.
-      Aliquam facilisis neque eget ligula aliquam consequat.
-
-      ### This is an H3. Use it for subheads and subsections.
-
-      Donec malesuada, augue eu blandit porta, metus metus auctor leo, non
-      dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an
-      inline link](#) placerat non, eleifend tempor dolor. Quisque sed nisl
-      elit. Praesent pulvinar id urna quis cursus. In hac habitasse platea
-      dictumst. Mauris sed odio magna. Duis felis turpis, posuere at erat nec,
-      condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia
-      aliquam velit. Mauris ut purus in nisl suscipit feugiat.
-
-      Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
-      Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
-      porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
-    image: images/avatar.png
+    content: "### Instructor(s)\n\n
+		Huanling Wang Ph.D\n\n
+		Rubin Wang Ph.D\n\n
+		Qingxiang Meng Ph.D\n\n
+		The course provides the students with basic theories and methods of rock and soil mechanics including laboratory testing, mechanical models, numerical methods and their applications to the practial rock engineering such as tunnels, foundations and slopes in rock mass. Recent developments related to rock and soil mechanics and engineering are also introduced in this course.\n\n
+		### Books:\n\n
+		There are many books on finite element methods. This class does not have a required
+		textbook. However, we do recommend the following books for more detailed and broader
+		treatments than can be provided in any form of class:\n\n
+		1.	John Conrad Jaeger, Neville G. W. Cook, Robert Zimmerman (2007), Fundamentals of Rock Mechanics\n\n
+		2. Robert Zimmerman (2018) Fluid Flow in Porous Media\n\n"
     image_alt: test
-  - title: Recent Posts
-    section_id: posts
-    type: section_posts
-    has_more_link: true
-    more_link_text: Read more
   - title: A Cat
     section_id: cat
     type: section_content
-    image: images/art.svg
     image_alt: Geometric pattern
-    content: >-
-      Hi this is my text and image block. Vis accumsan feugiat adipiscing nisl
-      amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus
-      aliquet placerat commodo.
-
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
-
-      Id massa aliquet arcu accumsan lorem amet accumsan.
-
-
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
 seo:
-  title: Stackbit Vanilla Theme
-  description: The preview of the Vanilla theme
+  title: Rock Hydraulics
+  description: Rock Hydraulics
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Vanilla Theme
+      value: Pro English Editing
       keyName: property
     - name: 'og:description'
       value: The preview of the Vanilla theme
