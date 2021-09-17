@@ -1,5 +1,5 @@
 ---
-title: Contact US
+title: Contact
 subtitle: Under construction
 seo:
   title: 帮助专业化您的文章
