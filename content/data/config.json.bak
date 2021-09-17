@@ -11,15 +11,15 @@
                 "url": "/"
             },
             {
-                "label": "Syllabus",
+                "label": "Generic",
                 "url": "/generic/"
             },
             {
-                "label": "Details",
+                "label": "Elements",
                 "url": "/elements/"
             },
             {
-                "label": "Contact US",
+                "label": "Ipsum",
                 "url": "/ipsum/"
             }
         ]
